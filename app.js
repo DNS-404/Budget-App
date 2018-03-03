@@ -28,7 +28,7 @@ var budgetController = (function() {
             var newItem, ID;
             
             //[1 2 3 4 5], next ID = 6
-            //[1 2 4 6 8], next ID = 9
+            //[1 2 4 6 8], next ID = 9 NO
             // ID = last ID + 1
             
             // Create new ID
@@ -52,10 +52,6 @@ var budgetController = (function() {
             
             // Return the new element
             return newItem;
-        },
-        
-        testing: function() {
-            console.log(data);
         }
     };
     
