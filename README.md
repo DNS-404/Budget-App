@@ -1,5 +1,5 @@
 
-Click here - [**Budget App**](http://rawgit.com/DNS-404/Budget-App/master/index.html)
+[**Budget App**](http://rawgit.com/DNS-404/Budget-App/master/index.html)
 
 Budget-App is a simple web application built by me in JavaScript with :heart:
 
