@@ -165,11 +165,6 @@ var UIController = (function() {
     
     var formatNumber = function(num, type) {
             var numSplit, int, decimal, sign;
-            /*
-            + or - before number
-            exactly 2 decimal points
-            comma separating thousands
-            */
             
             num = Math.abs(num);
             num = num.toFixed(2); //returns string
